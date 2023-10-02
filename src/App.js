@@ -1,4 +1,4 @@
- React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 import NoteContainer from "./Components/NoteContainer/NoteContainer";
 import Sidebar from "./Components/Sidebar/Sidebar";
